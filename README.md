@@ -1,6 +1,6 @@
 1. web3 & plants zombie    1   : https://liff.line.me/2006696468-dpYn2wXA
 2. bullet strom            2   : https://liff.line.me/2006748037-wgn36x6X
-3. SuperZ                  3   : app.superz.superwalk.io
+3. SuperZ                  3   : https://app.superz.superwalk.io
 4. Bombie                  4   : https://liff.line.me/2006719903-1zJvVoPX
 5. Tsubasa                 5   : app.line.tsubasa-rivals.com
 6. cattea                  6   : https://liff.line.me/2006725206-9wRWZmEj
